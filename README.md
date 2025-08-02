@@ -68,4 +68,3 @@ Open-source (MIT License).
 
 🔗 Live Demo: [Coming Soon]
 📧 Contact: [email@arorinyaboke@tudents.uonbi.ac.ke]
-New chat
